@@ -25,3 +25,7 @@ function minMax2(arr) {
 
     console.log(min, max);
 }
+
+const arr = [1, 2, 3, 4];
+
+console.log(minMax1(arr), minMax2(arr));
