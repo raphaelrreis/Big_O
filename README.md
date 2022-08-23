@@ -9,7 +9,7 @@
     -Python 3.7
 
 # How to run this project
-    - Checkout pro
+    - Checkout projeto
     - Open your console
 
 
